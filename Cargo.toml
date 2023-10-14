@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "src/cuda-sys/cuda-driver-sys",
+    "src/cuda-sys/cuda-runtime-sys",
+    "src/cuda-sys/cuda-finder",
+    "src/bin"
+]
